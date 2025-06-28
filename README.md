@@ -1,48 +1,56 @@
 # 👋 ¡Hola! Soy Evelio Antonio Piedra Cueria
 
-**Ingeniero en Ciencias Informáticas** | **Desarrollador Full Stack**
+**🧠 Ingeniero en Ciencias Informáticas** | **💻 Desarrollador Full Stack**  
+Apasionado por construir soluciones eficientes, escalables y orientadas a resultados.
 
 ---
 
 ## 🚀 Sobre mí
 
-Apasionado por la innovación tecnológica, con experiencia creando soluciones integrales y aplicaciones multiplataforma. Domino el desarrollo de aplicaciones web y móviles, así como la gestión de infraestructuras cloud modernas.
+Soy un profesional con sólida formación técnica y enfoque multidisciplinario. Tengo experiencia en el desarrollo de aplicaciones web y móviles, automatización de procesos, integración de APIs y despliegue en infraestructuras cloud. Actualmente también estudio Antropología en la UNILA, lo que complementa mi visión crítica y social de la tecnología.
 
-> "La tecnología no solo resuelve problemas, sino que crea nuevas oportunidades para transformar el mundo."
+> *"La tecnología no solo resuelve problemas, también transforma realidades."*
 
 ---
 
-## 🛠️ Tecnologías principales
+## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes y Frameworks:**  
-  Python, Java, C++, JavaScript, PHP, Laravel, React, Node.js, Flutter
-- **Desarrollo móvil:**  
-  Android y iOS (apps nativas y multiplataforma)
+  `Python`, `PHP`, `Laravel`, `JavaScript`, `React`, `Node.js`, `Flutter`, `C`, `C++`, `Java`
+- **Mobile:**  
+  Apps nativas y multiplataforma (Android e iOS)
 - **Bases de datos:**  
-  MySQL, PostgreSQL
-- **Cloud & Hosting:**  
-  Amazon AWS, DigitalOcean, Hostinger
-- **APIs:**  
-  Diseño e implementación de APIs RESTful
+  `MySQL`, `PostgreSQL`
+- **Cloud & DevOps:**  
+  `Amazon AWS`, `DigitalOcean`, `Hostinger`, `Nginx`, `Linux`, `PM2`
+- **Otros:**  
+  `FastAPI`, `Selenium`, `Playwright`, `Git`, `Docker`
 
 ---
 
 ## 💡 Proyectos destacados
 
-- **Ecommerce:** Plataforma desarrollada para ventas en línea, integrando pagos y gestión de inventario.
-- **Comparador de precios:** Herramienta para buscar y comparar precios entre diferentes proveedores en tiempo real.
-- **Próximos lanzamientos:** Actualmente trabajando en nuevos proyectos privados que pronto estarán disponibles al público.
+- **🛍️ Ecommerce Madrid Center**  
+  Plataforma de ventas con integración de stock, pagos y scraping automatizado de precios en múltiples tiendas.
+
+- **📊 Comparador de Precios**  
+  Dashboard en tiempo real para visualizar y comparar precios de productos de diferentes proveedores.
+
+- **📦 Sistema de Inventario & Pedidos Técnicos**  
+  Gestión de solicitudes, control de stock, generación de reportes y conexión con Odoo ERP.
 
 ---
 
 ## 🌱 Siempre aprendiendo
 
-Me mantengo en constante actualización, explorando nuevas herramientas, frameworks y mejores prácticas para entregar soluciones robustas y escalables.
+Me enfoco en mantenerme actualizado con tecnologías emergentes, buenas prácticas de desarrollo y nuevas perspectivas que conecten la tecnología con el impacto social.
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 ¿Hablamos?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/evelio-antonio-piedra-cueria-564a54184/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/evelio-antonio-piedra-cueria-564a54184/)  
+✉️ contacto@madridcenterimportados.com  
+🌐 [madridcenter.com](https://madridcenter.com) *(proyecto en construcción)*
 
 ---
