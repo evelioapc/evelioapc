@@ -50,7 +50,7 @@ Me enfoco en mantenerme actualizado con tecnologías emergentes, buenas práctic
 ## 📫 ¿Hablamos?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/evelio-antonio-piedra-cueria-564a54184/)  
-✉️ contacto@madridcenterimportados.com  
+✉️ ecueria@gmail.com  
 🌐 [madridcenter.com](https://madridcenter.com) *(proyecto en construcción)*
 
 ---
