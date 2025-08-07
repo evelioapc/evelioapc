@@ -7,7 +7,7 @@ Apasionado por construir soluciones eficientes, escalables y orientadas a result
 
 ## 🚀 Sobre mí
 
-Soy un profesional con sólida formación técnica y enfoque multidisciplinario. Tengo experiencia en el desarrollo de aplicaciones web y móviles, automatización de procesos, integración de APIs y despliegue en infraestructuras cloud. Actualmente también estudio Antropología en la UNILA, lo que complementa mi visión crítica y social de la tecnología.
+Soy un profesional con sólida formación técnica y enfoque multidisciplinario. Tengo experiencia en el desarrollo de aplicaciones web y móviles, automatización de procesos, integración de APIs y despliegue en infraestructuras cloud.
 
 > *"La tecnología no solo resuelve problemas, también transforma realidades."*
 
@@ -16,7 +16,7 @@ Soy un profesional con sólida formación técnica y enfoque multidisciplinario.
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes y Frameworks:**  
-  `Python`, `PHP`, `Laravel`, `JavaScript`, `React`, `Node.js`, `Flutter`, `C`, `C++`, `Java`
+  `Python`, `PHP`, `Laravel`, `JavaScript`, `React`, `Node.js`, `Flutter`, `C`, `C++`, `Java`, 
 - **Mobile:**  
   Apps nativas y multiplataforma (Android e iOS)
 - **Bases de datos:**  
