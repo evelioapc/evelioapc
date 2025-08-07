@@ -16,7 +16,7 @@ Soy un profesional con sólida formación técnica y enfoque multidisciplinario.
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes y Frameworks:**  
-  `Python`, `PHP`, `Laravel`, `JavaScript`, `React`, `Node.js`, `Flutter`, `C`, `C++`, `Java`, 
+  `Python`, `PHP`, `Laravel`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `Flutter`, `C`, `C++`, `Java`
 - **Mobile:**  
   Apps nativas y multiplataforma (Android e iOS)
 - **Bases de datos:**  
@@ -29,6 +29,18 @@ Soy un profesional con sólida formación técnica y enfoque multidisciplinario.
 ---
 
 ## 💡 Proyectos destacados
+
+- **📱 App Mobile Madrid Center Importados**  
+  Aplicación móvil nativa y multiplataforma (Android e iOS) para la gestión, venta y consulta de productos de Madrid Center Importados.
+
+- **🌐 Smartfy Web**  
+  Plataforma web para la gestión eficiente de información y procesos internos, adaptada a las necesidades de clientes empresariales.
+
+- **🛒 Madrid Center Importados**  
+  Desarrollo de soluciones tecnológicas para la operación y el crecimiento del negocio, incluyendo sistemas de inventario, ventas y automatización.
+
+- **🔒 Always (Proyecto Privado)**  
+  Proyecto privado enfocado en el desarrollo de herramientas y flujos personalizados para clientes con requerimientos de alta confidencialidad.
 
 - **🛍️ Ecommerce Madrid Center**  
   Plataforma de ventas con integración de stock, pagos y scraping automatizado de precios en múltiples tiendas.
@@ -51,6 +63,6 @@ Me enfoco en mantenerme actualizado con tecnologías emergentes, buenas práctic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/evelio-antonio-piedra-cueria-564a54184/)  
 ✉️ ecueria@gmail.com  
-🌐 [madridcenter.com](https://madridcenter.com) *(proyecto en construcción)*
+🌐 [madridcenter.com](https://madridcenterimportados.com) *(proyecto en construcción)*
 
 ---
