@@ -1,68 +1,95 @@
-# 👋 ¡Hola! Soy Evelio Antonio Piedra Cueria
+# 👋 Hi! I'm Evelio Antonio Piedra Cueria
 
-**🧠 Ingeniero en Ciencias Informáticas** | **💻 Desarrollador Full Stack**  
-Apasionado por construir soluciones eficientes, escalables y orientadas a resultados.
+🧠 **Full Stack Software Engineer | DevOps Architect | Technical Founder**
 
----
-
-## 🚀 Sobre mí
-
-Soy un profesional con sólida formación técnica y enfoque multidisciplinario. Tengo experiencia en el desarrollo de aplicaciones web y móviles, automatización de procesos, integración de APIs y despliegue en infraestructuras cloud.
-
-> *"La tecnología no solo resuelve problemas, también transforma realidades."*
+Passionate about designing resilient architectures, automating critical infrastructure, and scaling digital platforms with a focus on high performance and **99.9% availability**.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🚀 About Me
 
-- **Lenguajes y Frameworks:**  
-  `Python`, `PHP`, `Laravel`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `Flutter`, `C`, `C++`, `Java`
-- **Mobile:**  
-  Apps nativas y multiplataforma (Android e iOS)
-- **Bases de datos:**  
-  `MySQL`, `PostgreSQL`
-- **Cloud & DevOps:**  
-  `Amazon AWS`, `DigitalOcean`, `Hostinger`, `Nginx`, `Linux`, `PM2`
-- **Otros:**  
-  `FastAPI`, `Selenium`, `Playwright`, `Git`, `Docker`
+Engineer with **7+ years of international experience** transforming complex requirements into scalable technical solutions. My approach combines deep technical expertise with strategic growth vision, specializing in microservices, security, and system optimization for high-load environments.
+
+> *"Engineering excellence doesn’t just solve problems; it builds the future in a scalable and secure way."*
 
 ---
 
-## 💡 Proyectos destacados
+## 🛠️ Tech Stack (Top-Tier 2026)
 
-- **📱 App Mobile Madrid Center Importados**  
-  Aplicación móvil nativa y multiplataforma (Android e iOS) para la gestión, venta y consulta de productos de Madrid Center Importados.
+### Backend & Cloud
+- Python (FastAPI / Flask)  
+- Go (Golang)  
+- **Java (Spring Boot / Enterprise Systems)**  
+- PHP (Laravel)  
+- Node.js (NestJS)  
+- TypeScript  
 
-- **🌐 Smartfy Web**  
-  Plataforma web para la gestión eficiente de información y procesos internos, adaptada a las necesidades de clientes empresariales.
+### Infrastructure & DevOps
+- Docker  
+- Kubernetes  
+- Terraform (Infrastructure as Code)  
+- CI/CD (GitHub Actions)  
+- Nginx  
+- Linux SysAdmin  
 
-- **🛒 Madrid Center Importados**  
-  Desarrollo de soluciones tecnológicas para la operación y el crecimiento del negocio, incluyendo sistemas de inventario, ventas y automatización.
+### Databases
+- PostgreSQL (Vector SQL / pgvector)  
+- MySQL  
+- SQL Server  
+- Redis (Caching)  
 
-- **🔒 Always (Proyecto Privado)**  
-  Proyecto privado enfocado en el desarrollo de herramientas y flujos personalizados para clientes con requerimientos de alta confidencialidad.
+### Specialties
+- Technical SEO & GEO  
+- Web Scraping  
+- DevSecOps  
+- System Design  
 
-- **🛍️ Ecommerce Madrid Center**  
-  Plataforma de ventas con integración de stock, pagos y scraping automatizado de precios en múltiples tiendas.
+---
 
-- **📊 Comparador de Precios**  
-  Dashboard en tiempo real para visualizar y comparar precios de productos de diferentes proveedores.
+## 💡 Featured Projects (Built + Scale + Result)
 
-- **📦 Sistema de Inventario & Pedidos Técnicos**  
-  Gestión de solicitudes, control de stock, generación de reportes y conexión con Odoo ERP.
+### 🛒 Madrid Center Ecommerce
+**Full Stack & DevOps Architect**
+
+- **Built:** Designed a microservices architecture using Laravel and React.  
+- **Scale:** Managed infrastructure supporting **500,000+ monthly active users**.  
+- **Result:** Reduced deployment errors by **60%** and improved load times by **40%** through query optimization and caching strategies.  
 
 ---
 
-## 🌱 Siempre aprendiendo
+### 🤖 Devoliq
+🌐 https://devoliq.com  
+**Technical Founder & Lead Engineer**
 
-Me enfoco en mantenerme actualizado con tecnologías emergentes, buenas prácticas de desarrollo y nuevas perspectivas que conecten la tecnología con el impacto social.
+- **Innovation:** Implemented automation pipelines using Python and Go for large-scale data scraping.  
+- **Growth:** Applied **Generative Engine Optimization (GEO)** strategies, increasing organic indexing by **35% in 6 months**.  
+
+---
+
+### 🔒 Always (Private Corporate Project)
+**Senior Full Stack Developer**
+
+Developed mission-critical applications integrated with ERP systems, optimizing SQL data retrieval by **25%** for corporate workflows.  
 
 ---
 
-## 📫 ¿Hablamos?
+### 📊 Price & Inventory Comparator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/evelio-antonio-piedra-cueria-564a54184/)  
-✉️ ecueria@gmail.com  
-🌐 [madridcenter.com](https://madridcenterimportados.com) *(proyecto en construcción)*
+Orchestrated a real-time dashboard integrated with **Odoo ERP**, automating processes that saved **15+ operational hours per week** for the technical team.  
 
 ---
+
+## 🌱 Research & Education
+
+- 🎓 **M.Sc. in Public Policy and Development** — UNILA, Brazil *(In Progress)*  
+- 🎤 **International Speaker:** WorldCUR 2023 (Warwick, UK)  
+  - *Application of the RGC Conceptual Algorithm in a Multilayer Perceptron*  
+
+- ⚙️ **SRE Focus:** Specialized in financial systems resilience and infrastructure automation using Infrastructure as Code.  
+
+---
+
+## 📫 Let's Connect
+
+✉️ **Email:** ecueria@gmail.com  
+🌍 **Location:** Foz do Iguaçu, Brazil / Remote Worldwide  
